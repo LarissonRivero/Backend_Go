@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+/bin/
+/go.sum
+/go.mod
+.env
